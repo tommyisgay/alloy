@@ -4,7 +4,7 @@ This project is deprecated! Use our other proxy [Corrosion](https://github.com/t
 # Alloy Proxy
 A web proxy for use in combating web filters.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloy/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tommyisgay/alloy
 
 ## Running locally
 
